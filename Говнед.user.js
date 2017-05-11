@@ -7,6 +7,8 @@
 // @include     *
 // @version     0.1
 // @grant       none
+// Based on code by istepaniuk:  xkcd-substitutions https://github.com/istepaniuk/xkcd-substitutions/
+// @namespace Felegz
 // ==/UserScript==
 (function() {
     var substitutions,
